@@ -1,0 +1,36 @@
+{
+	"Json_Data": [{
+
+	  "Active_Ad_network": "admob",
+
+      "Admob_interstitial": "ca-app-pub-1321301934647170/4004853913",
+      "Admob_banner": "ca-app-pub-1321301934647170/7024972767",
+
+	  "IronSource_App_Key": "",
+      "IronSource_interstitial_Placement": "DefaultInterstitial",
+      "IronSource_banner_Placement": "DefaultBanner",
+      "IronSource_rewarded_Placement": "DefaultRewardedVideo",
+
+
+      "Ad__X__Interstitial": "admob",
+      "Ad__X__Banner": "admob",
+
+
+      "Package_name": "com.seven_nights_ghost.getfungame",
+
+      "Reward_Video_after": "4",
+	  
+      "App_suspended": "no",
+      "NewApp_package": "com.facebook.lite",
+      "NewApp_title": "App update!",
+      "NewApp_message": "please update to new version!",
+
+
+
+      "Json_Checker": "dont_change_this"
+
+
+
+	}]
+
+}
